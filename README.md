@@ -6,6 +6,8 @@ Java application to recommend clothing outfit.
 
 I developed this application for the personal project component of CPSC 210: Software Construction.
 
+Note: must update src > main > network > ReadWebPage.java line 23 with your Open Weather Map API key.
+
 ---
 
 ## Contributors
