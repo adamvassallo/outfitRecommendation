@@ -20,7 +20,7 @@ public class ReadWebPage {
 
         BufferedReader br = null;
         try {
-            String theURL = "https://api.openweathermap.org/data/2.5/weather?q=Vancouver,can&mode=html&APPID=0df5466fd5fcbba5f97ad2fe0933a211";
+            String theURL = "https://api.openweathermap.org/data/2.5/weather?q=Vancouver,can&mode=html&APPID=INSERT_API_KEY_HERE";
             URL url = new URL(theURL);
             br = new BufferedReader(new InputStreamReader(url.openStream()));
             String line;
