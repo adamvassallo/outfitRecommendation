@@ -1,0 +1,10 @@
+Jacket,Brown,Barbour
+Jacket,Blue,Helly Hanson
+Jacket,Black,J Lindeberg
+Jacket,Grey,UBC
+Shirt,Black,Raptors
+Shirt,Grey,Lulu Lemon
+Shirt,Green,John Varvatos
+Pant,Black,Lulu Lemon
+Pant,Black,Club Monaco
+Pant,Blue,Guess
